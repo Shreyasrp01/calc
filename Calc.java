@@ -17,5 +17,9 @@ public class Calc {
         System.out.println("Addition: " + add);
         System.out.println("Subtraction: " + sub);
         System.out.println("Multiplication: " + mul);
+
+        int mul = a * b;
+        System.out.println("Multiplication: " + mul);
+
     }
 }
